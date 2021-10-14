@@ -10,77 +10,78 @@ module.exports = {
         }
     },
     social: {
-        linkedin: 'ariful-alam',
-        twitter: 'arif_swozon',
-        facebook: '',
+        linkedin: 'yassine-zouhri-1bb971185',
+        twitter: 'yasiaan',
+        facebook: 'nobody.soya',
         dribbble: '',
         behance: '',
         medium: '',
         devto: '',
-        website: 'https://arifszn.github.io',
-        phone: '',
-        email: 'contact@arifszn.com'
+        website: 'https://yasiaan.github.io',
+        phone: '0632699706',
+        email: 'yzouhri@insea.ac.ma'
     },
     skills: [
+        'R',
+        'Python',
+        'Data Governance',
+        'Data Architecture',
+        'Data Analysis',
+        'Machine learning',
         'PHP',
-        'Laravel',
+        'Symfony',
         'JavaScript',
+        'Angular.js',
         'React.js',
-        'Vue.js',
+        'ReactNative.js',
         'Node.js',
         'Jquery',
+        'SQL',
+        'MongoDB    ',
         'MySQL',
         'Git',
         'Docker',
         'CSS',
-        'Antd',
-        'Tailwind',
         'Bootstrap',
     ],
     experiences: [
         { 
-            company: 'Monstarlab Bangladesh',
-            position: 'Backend Engineer',
+            company: 'Implementation of a Data catalog governance platform for the development of AI use cases',
+            position: 'internal internship at the national institute of statistics and applied economics',
+            from: 'July 2021',
+            to: 'September 2021'
+        },
+        { 
+            company: 'Creation of a data dissemination website',
+            position: 'high planning commission',
             from: 'September 2021',
             to: 'Present'
-        },
-        { 
-            company: 'Orangetoolz - My Offer 360 Degree',
-            position: 'Jr. Full Stack Engineer',
-            from: 'July 2019',
-            to: 'August 2021'
-        },
-        { 
-            company: 'Techvillage',
-            position: 'Jr. Software Engineer',
-            from: 'January 2019',
-            to: ' June 2019'
         }
     ],
     education: [
         { 
-            institution: 'Cycle d’ingénieur à l’Institut National de Statistique et d’Économie Appliquée, Rabat',
-            degree: 'Bachelor of Science',
+            institution: 'Engineering cycle at the National Institute of Statistics and Applied Economics, Rabat',
+            degree: 'Data and Software Engineering',
+            from: '2018',
+            to: 'Present'
+        },
+        { 
+            institution: 'Preparatory classes for engineering schools. CPGE Moulay Idriss, Fes',
+            degree: 'MPSI/MP',
             from: '2015',
-            to: '2019'
+            to: '2018',
         },
         { 
-            institution: 'Cantonment College, Jessore',
-            degree: 'Higher Secondary Certificate (HSC)',
-            from: '2012',
-            to: '2014',
-        },
-        { 
-            institution: 'Chowgacha Shahadat Pilot High School',
-            degree: 'Secondary School Certificate (SSC)',
-            from: '2007',
-            to: '2012'
+            institution: 'Baccalaureate Mathematical Sciences-B. Ibn Al Haytam High School, Fez',
+            degree: '',
+            from: '2014',
+            to: '2015'
         }
     ],
     blog: {
         // Display blog posts from your medium or dev.to account. (Optional)
         source: 'dev.to', // medium | dev.to
-        username: 'arifszn',
+        username: 'yasiaan',
         limit: 2 // How many posts to display. Max is 10.
     },
     googleAnalytics: {

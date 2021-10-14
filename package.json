@@ -1,14 +1,14 @@
 {
-    "name": "ezprofile",
+    "name": "yasiaan",
     "version": "1.0.1",
-    "description": "Kickstart your personal portfolio with Github Api and blog",
-    "homepage": "https://arifszn.github.io/ezprofile",
+    "description": "Personal portfolio",
+    "homepage": "https://yasiaan.github.io/zouhri",
     "private": true,
     "license": "Apache-2.0",
-    "author": "arifszn",
+    "author": "yassine",
     "repository": {
         "type": "git",
-        "url": "https://github.com/arifszn/ezprofile.git"
+        "url": "https://github.com/yasiaan/zouhri.git"
     },
     "dependencies": {
         "@craco/craco": "^6.2.0",
