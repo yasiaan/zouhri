@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zouhri/static/css/main.4c438446.chunk.css",
+    "main.js": "/zouhri/static/js/main.c83f604c.chunk.js",
+    "main.js.map": "/zouhri/static/js/main.c83f604c.chunk.js.map",
+    "runtime-main.js": "/zouhri/static/js/runtime-main.8a9b03cf.js",
+    "runtime-main.js.map": "/zouhri/static/js/runtime-main.8a9b03cf.js.map",
+    "static/js/2.c8464a1d.chunk.js": "/zouhri/static/js/2.c8464a1d.chunk.js",
+    "static/js/2.c8464a1d.chunk.js.map": "/zouhri/static/js/2.c8464a1d.chunk.js.map",
+    "static/js/3.08088b23.chunk.js": "/zouhri/static/js/3.08088b23.chunk.js",
+    "static/js/3.08088b23.chunk.js.map": "/zouhri/static/js/3.08088b23.chunk.js.map",
+    "index.html": "/zouhri/index.html",
+    "static/css/main.4c438446.chunk.css.map": "/zouhri/static/css/main.4c438446.chunk.css.map",
+    "static/js/2.c8464a1d.chunk.js.LICENSE.txt": "/zouhri/static/js/2.c8464a1d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a9b03cf.js",
+    "static/js/2.c8464a1d.chunk.js",
+    "static/css/main.4c438446.chunk.css",
+    "static/js/main.c83f604c.chunk.js"
+  ]
+}
