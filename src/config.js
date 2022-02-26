@@ -46,7 +46,7 @@ module.exports = {
     ],
     experiences: [
         { 
-            company: 'Implementation of a Data catalog governance platform for the development of AI use cases',
+            company: 'An artificial intelligence model for explosives detection',
             position: 'internal internship at the national institute of statistics and applied economics',
             from: 'July 2021',
             to: 'September 2021'
