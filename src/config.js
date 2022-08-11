@@ -10,16 +10,16 @@ module.exports = {
         }
     },
     social: {
-        linkedin: 'yassine-zouhri-1bb971185',
+        linkedin: 'zouhri-yassine',
         twitter: 'yasiaan',
         facebook: 'nobody.soya',
         dribbble: '',
         behance: '',
         medium: '',
         devto: '',
-        website: 'https://yasiaan.github.io',
+        website: 'https://yasiaan.github.io/zouhri',
         phone: '0632699706',
-        email: 'yzouhri@insea.ac.ma'
+        email: 'yzouhri.e@gmail.com'
     },
     skills: [
         'R',
@@ -28,6 +28,9 @@ module.exports = {
         'Data Architecture',
         'Data Analysis',
         'Machine learning',
+        'Automation',
+        'Airflow',
+        'Spark',
         'PHP',
         'Symfony',
         'JavaScript',
@@ -35,6 +38,7 @@ module.exports = {
         'React.js',
         'ReactNative.js',
         'Node.js',
+        'Express.js',
         'Jquery',
         'SQL',
         'MongoDB    ',
@@ -46,16 +50,22 @@ module.exports = {
     ],
     experiences: [
         { 
+            company: 'Automation of the key performance indicator (KPI) calculation flow ',
+            position: 'Banque Centrale Populaire',
+            from: 'March 2022',
+            to: 'July 2022'
+        },
+        { 
             company: 'An artificial intelligence model for explosives detection',
-            position: 'internal internship at the national institute of statistics and applied economics',
+            position: 'SI2M Laboratory',
             from: 'July 2021',
             to: 'September 2021'
         },
         { 
-            company: 'Creation of a data dissemination website',
-            position: 'high planning commission',
-            from: 'September 2021',
-            to: 'Present'
+            company: 'Implementation of a data dissemination website',
+            position: 'High Planning Commission',
+            from: 'June 2020',
+            to: 'July 2020'
         }
     ],
     education: [
@@ -63,17 +73,17 @@ module.exports = {
             institution: 'Engineering cycle at the National Institute of Statistics and Applied Economics, Rabat',
             degree: 'Data and Software Engineering',
             from: '2018',
-            to: 'Present'
+            to: 'June 2022'
         },
         { 
-            institution: 'Preparatory classes for engineering schools. CPGE Moulay Idriss, Fes',
+            institution: 'Preparatory classes for engineering schools. CPGE Moulay Idriss, Fez',
             degree: 'MPSI/MP',
             from: '2015',
             to: '2018',
         },
         { 
-            institution: 'Baccalaureate Mathematical Sciences-B. Ibn Al Haytam High School, Fez',
-            degree: '',
+            institution: 'Baccalaureate. Ibn Al Haytam High School, Fez',
+            degree: 'Mathematical Sciences-B',
             from: '2014',
             to: '2015'
         }
